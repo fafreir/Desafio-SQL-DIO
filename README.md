@@ -6,7 +6,7 @@ Elabore perguntas e utilize nos script SQL:
 - Order by
 - Junções de tabelas
 
-** Perguntas **:
+## Perguntas ## :
 
 1. Quantos CPFs temos cadastrados?
 - select count(*) from peoplecompany group by idident;
